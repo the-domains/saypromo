@@ -1,0 +1,28 @@
+name: saypromo
+favicon: null
+layout_spectrum: 0.14492816827259958
+typography_spectrum: 0.250306255184114
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.042193369939923286
+  lightness: 0.764525338774547
+  saturation: 0.14688819693401456
+  rhythmicContrast: 0.47663059807382524
+purpose: []
